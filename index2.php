@@ -26,7 +26,7 @@
 
 		$mail->Send();
 
-		header("Location:https://yasithan.github.io/studio/contact.html/#form1");
+		header("Location:https://yasithan.github.io/studio/contact.html");
 	}
 
 ?>
